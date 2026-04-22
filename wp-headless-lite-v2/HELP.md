@@ -1,5 +1,6 @@
 
 # WP Headless Lite v2 — Cheat Sheet
+It doesn't get easier than this, folks!
 
 ## Start
 npm install
