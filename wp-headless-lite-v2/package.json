@@ -1,0 +1,9 @@
+{
+  "name": "wp-headless-lite-v2",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "node build.js"
+  }
+}
